@@ -15,17 +15,6 @@
   <a href="mailto:sametberk.simsek@gmail.com" target="_blank" rel="nofollow"><img alt="Burak's Mail Address" src="https://img.shields.io/badge/Gmail-F14236??style=flat-square&logo=gmail&logoColor=white" /></a>
 -->
 
-## 🛠 Programming Languages
-
-<!--
-<img src="https://img.shields.io/badge/C%23-953DAC??style=flat-square&logo=c-sharp&logoColor=white"></img>
-<img src="https://img.shields.io/badge/JavaScript-EFD81D??style=flat-square&logo=javascript&logoColor=black"></img>
-<img src="https://img.shields.io/badge/Java-9E0000??style=flat-square&logo=java&logoColor=white"></img>
-<img src="https://img.shields.io/badge/TypeScript-2F74C0??style=flat-square&logo=typescript&logoColor=white"></img>
-<img src="https://img.shields.io/badge/CSS-0B75C2??style=flat-square&logo=css3&logoColor=white"></img>
-<img src="https://img.shields.io/badge/HTML5-DD4B25??style=flat-square&logo=html5&logoColor=white"></img>
--->
-
 
 ## 📊 GitHub Stats
 
@@ -36,8 +25,8 @@
       </a>
 </p>
   <p>
-  <a href="https://github.com/sametcp/HRMS-backend" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sametcp&repo=HRMS-backend&layout=compact&show_icons=true&theme=tokyonight">
+  <a href="https://github.com/sametcp//hrms-project" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sametcp&repo=/hrms-project&layout=compact&show_icons=true&theme=tokyonight">
   </a>
   </p>
   <p>
