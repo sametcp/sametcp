@@ -11,8 +11,8 @@
 <a href="mailto:sametberk.simsek@gmail.com" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116171180-f237f180-a710-11eb-9aea-560e6d4490b7.png" width="55px"></img></a>
 
 <!--
-  <a href="https://www.linkedin.com/in/samet-berk-%C5%9Fim%C5%9Fek-2295b6210/?originalSubdomain=tr&challengeId=AQHOPDswfpa5JgAAAX2HJvyWWgP3YuyOHzvuPMRAbHUE67Z8JU4g411khZm_IxDsfUwrmDfStoNShsk9lDQ4epeKJ_YuYnQFFw&submissionId=513cde94-82a7-bd16-539d-f2b584b9d349" target="_blank" rel="nofollow"><img alt="Burak's Linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2??style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sametberk.simsek@gmail.com" target="_blank" rel="nofollow"><img alt="Burak's Mail Address" src="https://img.shields.io/badge/Gmail-F14236??style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/samet-berk-%C5%9Fim%C5%9Fek-2295b6210/?originalSubdomain=tr&challengeId=AQHOPDswfpa5JgAAAX2HJvyWWgP3YuyOHzvuPMRAbHUE67Z8JU4g411khZm_IxDsfUwrmDfStoNShsk9lDQ4epeKJ_YuYnQFFw&submissionId=513cde94-82a7-bd16-539d-f2b584b9d349" target="_blank" rel="nofollow"><img alt="Samet's Linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2??style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sametberk.simsek@gmail.com" target="_blank" rel="nofollow"><img alt="Samet's Mail Address" src="https://img.shields.io/badge/Gmail-F14236??style=flat-square&logo=gmail&logoColor=white" /></a>
 -->
 
 
@@ -26,7 +26,7 @@
 </p>
   <p>
   <a href="https://github.com/sametcp/hrms-project" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sametcp&repo=/hrms-project&layout=compact&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sametcp&repo=hrms-project&layout=compact&show_icons=true&theme=tokyonight">
   </a>
   </p>
   <p>
