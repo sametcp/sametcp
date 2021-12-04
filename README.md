@@ -1,7 +1,7 @@
-<!-- ![GitHub stars](https://img.shields.io/github/stars/torukobyte?style=social) -->
-[![GitHub followers](https://img.shields.io/github/followers/torukobyte?style=flat&logo=github)](https://github.com/torukobyte?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/torukobyte?style=flat&logo=github)](https://github.com/torukobyte?tab=repositories)
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=torukobyte.visitor-badge)](https://github.com/sametcp)
+<!-- ![GitHub stars](https://img.shields.io/github/stars/sametcp?style=social) -->
+[![GitHub followers](https://img.shields.io/github/followers/sametcp?style=flat&logo=github)](https://github.com/sametcp?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/sametcp?style=flat&logo=github)](https://github.com/sametcp?tab=repositories)
+[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=sametcp.visitor-badge)](https://github.com/sametcp)
 
 
 ## ⬇️ Contact me via these platforms! 
@@ -12,7 +12,7 @@
 
 <!--
   <a href="https://www.linkedin.com/in/samet-berk-%C5%9Fim%C5%9Fek-2295b6210/" target="_blank" rel="nofollow"><img alt="Burak's Linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2??style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:torukobyte@gmail.com" target="_blank" rel="nofollow"><img alt="Burak's Mail Address" src="https://img.shields.io/badge/Gmail-F14236??style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:sametberk.simsek@gmail.com" target="_blank" rel="nofollow"><img alt="Burak's Mail Address" src="https://img.shields.io/badge/Gmail-F14236??style=flat-square&logo=gmail&logoColor=white" /></a>
 -->
 
 ## 🛠 Programming Languages
@@ -36,7 +36,7 @@
       </a>
 </p>
   <p>
-  <a href="https://github.com/sametcp/hrms-project" target="_blank">
+  <a href="https://github.com/sametcp/HRMS-backend" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sametcp&repo=hrms-project&layout=compact&show_icons=true&theme=tokyonight">
   </a>
   </p>
