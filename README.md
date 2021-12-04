@@ -20,6 +20,11 @@
 
 <p align="center">
   <p>
+  <a href="https://github.com/sametcp?tab=repositories" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sametcp&hide=python&layout=compact&show_icons=true&theme=tokyonight">
+  </a>
+  </p>
+  <p>
     <a href="https://github.com/sametcp" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=sametcp&count_private=true&show_icons=true&theme=tokyonight">
       </a>
@@ -27,11 +32,6 @@
   <p>
   <a href="https://github.com/sametcp/hrms-project" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sametcp&repo=hrms-project&layout=compact&show_icons=true&theme=tokyonight">
-  </a>
-  </p>
-  <p>
-  <a href="https://github.com/sametcp?tab=repositories" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sametcp&hide=python&layout=compact&show_icons=true&theme=tokyonight">
   </a>
   </p>
 </p>
