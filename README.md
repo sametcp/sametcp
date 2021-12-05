@@ -31,7 +31,7 @@
 </p>
   <p>
   <a href="https://github.com/sametcp/hrms-project" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sametcp&repo=hrms-project&layout=compact&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sametcp&repo=hrms-project&layout=compact&show_icons=true&theme=tokyonight">
   </a>
   </p>
 </p>
