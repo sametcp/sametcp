@@ -22,6 +22,7 @@
 <img src="https://img.shields.io/badge/TypeScript-2F74C0??style=flat-square&logo=typescript&logoColor=white"></img>
 <img src="https://img.shields.io/badge/CSS-0B75C2??style=flat-square&logo=css3&logoColor=white"></img>
 <img src="https://img.shields.io/badge/HTML5-DD4B25??style=flat-square&logo=html5&logoColor=white"></img>
+<img src="https://img.shields.io/badge/C%23-953DAC??style=flat-square&logo=c-sharp&logoColor=white"></img>
 
 ## 📊 GitHub Stats
 
