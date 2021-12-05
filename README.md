@@ -26,7 +26,7 @@
   </p>
   <p>
     <a href="https://github.com/sametcp" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=sametcp&count_private=true&show_icons=true&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api?username=sametcp&count_private=true&show_icons=true">
       </a>
 </p>
   <p>
