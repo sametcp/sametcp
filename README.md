@@ -17,13 +17,11 @@
 
 ## 🛠 Technologies & Tools 
 
-<!--
 <img src="https://img.shields.io/badge/JavaScript-EFD81D??style=flat-square&logo=javascript&logoColor=black"></img>
 <img src="https://img.shields.io/badge/Java-9E0000??style=flat-square&logo=java&logoColor=white"></img>
 <img src="https://img.shields.io/badge/TypeScript-2F74C0??style=flat-square&logo=typescript&logoColor=white"></img>
 <img src="https://img.shields.io/badge/CSS-0B75C2??style=flat-square&logo=css3&logoColor=white"></img>
 <img src="https://img.shields.io/badge/HTML5-DD4B25??style=flat-square&logo=html5&logoColor=white"></img>
--->
 
 ## 📊 GitHub Stats
 
